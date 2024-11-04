@@ -34,3 +34,4 @@ class Envio:
 if __name__ == '__main__':
     e = Envio("1", 20.0, True)
     print(e)
+    print(e)
